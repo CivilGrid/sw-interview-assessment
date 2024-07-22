@@ -8,8 +8,8 @@ You have been hired by the City of Los Angeles to build a web application to fin
 
 In the `data` folder, there are two datasets in GeoJSON format:
 
-`cip_projects.json`: Capital Improvement Projects (CIP) in the City of Los Angeles
-`ev_chargers.json`: Electric Vehicle (EV) chargers in the City of Los Angeles
+- `cip_projects.json`: Capital Improvement Projects (CIP) in the City of Los Angeles
+- `ev_chargers.json`: Electric Vehicle (EV) chargers in the City of Los Angeles
 
 Your task is to build a tool that enables the city manager to view the areas where CIP projects are scheduled to take place and highlight EV chargers within that area.
 
